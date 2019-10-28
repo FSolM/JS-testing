@@ -1,5 +1,5 @@
 
-const caesarCipherEncryptor = (string, key) => {
+export default (string, key) => {
 	const map = 'abcdefghijklmnopqrstuvwxyz'.split("");
 	let result = '';
 	for (let char of string) {
