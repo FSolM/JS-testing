@@ -1,17 +1,17 @@
-# JavaScript Testing JS
-### JS & JEST
+# JS Jest Testing
+### Jest tests + Babel
 #### Project 6
 
 ## Usage & Installation
 
-Install NPM modules
+Install npm modules
 
-`npm i`
+`$ npm i`
 
-Run the tests
+Run Jest's tests
 
-`npm run test`
+`$ npm run test`
 
 #### Created by:
-Carlos Sol: <a href="https://github.com/FSolM">@FSolM</a><br>
+Carlos Sol: [@FSolM](https://github.com/FSolM)<br>
 Diego Arvizu: [@diegoarvz4](https://github.com/diegoarvz4)
