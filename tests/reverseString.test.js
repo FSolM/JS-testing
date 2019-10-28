@@ -5,11 +5,11 @@ test('Reverse book to koob', () => {
 });
 
 test('Reverse Hello There to erehT olleH', () => {
-  expect(reverseString('Hello There').toBe('erehT olleH'));
+  expect(reverseString('Hello There')).toBe('erehT olleH');
 });
 
 test('Reverse HELLO WORLD to DLROW OLLEH', () => {
-  expect(reverseString('HELLO WORLD').toBe('DLROW OLLEH'));
+  expect(reverseString('HELLO WORLD')).toBe('DLROW OLLEH');
 });
 
 test('Reverse 156 to 651', () => {

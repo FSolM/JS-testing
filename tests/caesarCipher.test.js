@@ -21,5 +21,5 @@ test('Cipher "" with key 15 to ""', () => {
 });
 
 test('Cipher testing with no key to testing', () => {
-  expect(caesarCipher('testing').toBe('testing'));
+  expect(caesarCipher('testing')).toBe('testing');
 });
