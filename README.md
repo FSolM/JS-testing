@@ -1,17 +1,22 @@
 # JS Jest Testing
-### Jest tests + Babel
+### Jest tests implementing Babel
 #### Project 6
 
 ## Usage & Installation
 
-Install npm modules
+Install npm modules:
 
-`$ npm i`
+```
+$ npm i
+```
 
-Run Jest's tests
+Run Jest's tests:
 
-`$ npm run test`
+```
+$ npm run test
+```
 
 #### Created by:
+
 Carlos Sol: [@FSolM](https://github.com/FSolM)<br>
 Diego Arvizu: [@diegoarvz4](https://github.com/diegoarvz4)
