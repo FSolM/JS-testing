@@ -21,7 +21,7 @@ $ npm install
 To run the Jest's tests, execute the command
 
 ```
-npm run test
+$ npm run test
 ```
 
 ## Know Issues
